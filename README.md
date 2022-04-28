@@ -1,4 +1,4 @@
-Simple Software for generating Photo FInish picture.
+Simple Software for generating Photo finish picture.
 
 1. Step takes video from camera
 2. Breaks video into frames
